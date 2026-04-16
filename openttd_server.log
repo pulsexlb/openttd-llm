@@ -1,0 +1,603 @@
+[2026-04-15 21:55:46] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-15 21:56:04] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-15 21:56:04] dbg: [net:3] Starting network
+[2026-04-15 21:56:04] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 21:56:04] dbg: [net:3] Network online, multiplayer available
+[2026-04-15 21:56:04] dbg: [net:3] Detected broadcast addresses:
+[2026-04-15 21:56:04] dbg: [net:3]   0) 192.168.1.255
+[2026-04-15 21:56:04] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-15 21:56:04] dbg: [net:3] Using certificate path: none
+[2026-04-15 21:56:04] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-04-15 21:56:04] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-15 21:56:04] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-15 21:56:04] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-15 21:56:05] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-15 21:56:05] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-15 21:56:05] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-15 21:56:05] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-15 21:56:05] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-15 21:56:05] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 21:56:05] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 21:56:05] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 21:56:05] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 21:56:05] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 21:56:05] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 21:56:05] dbg: [net:3] Network revision name: 15.2
+[2026-04-15 21:56:09] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-15 21:56:10] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-15 21:56:10] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-15 21:56:15] dbg: [net:3] ----------------------------------------
+[2026-04-15 21:56:15] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-15 21:56:15] dbg: [net:3]   Game type:       Public
+[2026-04-15 21:56:15] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-15 21:56:15] dbg: [net:3]   Invite code:     +BeWRm44
+[2026-04-15 21:56:15] dbg: [net:3] ----------------------------------------
+[2026-04-15 21:56:22] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 620
+‎*** 游戏暂停（正连接客户端）
+‎*** dgd 加入了游戏（Client #2）
+[2026-04-15 21:56:26] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd
+‎*** 游戏取消暂停（正连接客户端）
+‎[全体] dgd：hello everyone
+[2026-04-15 21:59:47] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-15 21:59:47] dbg: [net:3] Starting network
+[2026-04-15 21:59:47] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 21:59:47] dbg: [net:3] Network online, multiplayer available
+[2026-04-15 21:59:47] dbg: [net:3] Detected broadcast addresses:
+[2026-04-15 21:59:47] dbg: [net:3]   0) 192.168.1.255
+[2026-04-15 21:59:47] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-15 21:59:47] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-15 21:59:47] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 21:59:47] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 21:59:47] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 21:59:47] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 21:59:47] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 21:59:47] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 21:59:47] dbg: [net:3] Network revision name: 15.2
+[2026-04-15 21:59:48] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-15 21:59:49] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-15 21:59:50] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-15 21:59:53] dbg: [net:3] ----------------------------------------
+[2026-04-15 21:59:53] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-15 21:59:53] dbg: [net:3]   Game type:       Public
+[2026-04-15 21:59:53] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-15 21:59:53] dbg: [net:3]   Invite code:     +BeWRm44
+[2026-04-15 21:59:53] dbg: [net:3] ----------------------------------------
+[2026-04-15 22:00:06] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 705
+‎*** Game paused (connecting clients)
+‎*** dgd has joined the game (Client #2)
+[2026-04-15 22:00:09] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd
+‎*** Game unpaused (connecting clients)
+‎[All] dgd: hello everyone
+[2026-04-15 22:05:34] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-15 22:05:34] dbg: [net:3] Starting network
+[2026-04-15 22:05:34] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 22:05:34] dbg: [net:3] Network online, multiplayer available
+[2026-04-15 22:05:34] dbg: [net:3] Detected broadcast addresses:
+[2026-04-15 22:05:34] dbg: [net:3]   0) 192.168.1.255
+[2026-04-15 22:05:34] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-15 22:05:34] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-15 22:05:34] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 22:05:34] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 22:05:34] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 22:05:34] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 22:05:34] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 22:05:34] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 22:05:34] dbg: [net:3] Network revision name: 15.2
+[2026-04-15 22:05:35] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-15 22:05:44] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 384
+‎*** Game paused (connecting clients)
+‎*** dgd has joined the game (Client #2)
+[2026-04-15 22:05:47] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd
+‎*** Game unpaused (connecting clients)
+‎[All] dgd: hi
+‎[All] dgd: hi
+[2026-04-15 22:07:23] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-15 22:07:23] dbg: [net:3] Starting network
+[2026-04-15 22:07:23] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 22:07:23] dbg: [net:3] Network online, multiplayer available
+[2026-04-15 22:07:23] dbg: [net:3] Detected broadcast addresses:
+[2026-04-15 22:07:23] dbg: [net:3]   0) 192.168.1.255
+[2026-04-15 22:07:23] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-15 22:07:23] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-15 22:07:23] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 22:07:23] dbg: [net:3] Initializing UDP listeners
+[2026-04-15 22:07:23] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 22:07:23] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 22:07:23] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-15 22:07:23] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-15 22:07:23] dbg: [net:3] Network revision name: 15.2
+[2026-04-15 22:07:25] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-15 22:07:29] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 225
+‎*** Game paused (connecting clients)
+‎*** dgd has joined the game (Client #2)
+[2026-04-15 22:07:33] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd
+‎*** Game unpaused (connecting clients)
+‎[All] dgd: hello
+‎[All] dgd: [so]
+[2026-04-15 22:08:23] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-15 22:08:23] dbg: [net:3] ----------------------------------------
+[2026-04-16 17:16:29] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:16:29] dbg: [net:3] Starting network
+[2026-04-16 17:16:29] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:16:29] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:16:29] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:16:29] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:16:29] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:16:29] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:16:29] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-04-16 17:16:29] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:16:29] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:16:29] dbg: [net:0] getaddrinfo for hostname "fixed.sav", port 3979, address family either IPv4 or IPv6 and socket type tcp failed: Name or service not known
+[2026-04-16 17:16:29] dbg: [net:0] Could not start network: could not create listening socket
+Could not start the server
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+[2026-04-16 17:17:25] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:17:25] dbg: [net:3] Starting network
+[2026-04-16 17:17:25] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:17:25] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:17:25] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:17:25] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:17:25] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:17:25] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:17:25] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-04-16 17:17:25] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:17:25] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:17:25] dbg: [net:0] getaddrinfo for hostname "fixed.sav", port 3979, address family either IPv4 or IPv6 and socket type tcp failed: Name or service not known
+[2026-04-16 17:17:25] dbg: [net:0] Could not start network: could not create listening socket
+Could not start the server
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+Not connected. This command is only available in multiplayer.
+[2026-04-16 17:18:48] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:18:48] dbg: [net:3] Starting network
+[2026-04-16 17:18:48] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:18:48] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:18:48] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:18:48] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:18:48] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:18:48] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:18:48] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:18:48] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:18:48] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:18:48] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:18:48] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:18:48] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:18:48] dbg: [net:3] Network revision name: 15.2
+‎[All] dgd: <think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: </think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: 成功
+‎[All] dgd: <think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: </think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: 成功
+‎[All] dgd: <think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: </think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: 成功
+[2026-04-16 17:21:30] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:21:30] dbg: [net:3] Starting network
+[2026-04-16 17:21:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:21:30] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:21:30] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:21:30] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:21:30] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:21:30] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:21:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:21:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:21:30] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:21:30] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:21:30] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:21:30] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:21:30] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:21:46] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 607
+[2026-04-16 17:21:46] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 17:21:48] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 665
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #3)
+[2026-04-16 17:21:50] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: hello everyone
+[2026-04-16 17:22:38] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:22:38] dbg: [net:3] Starting network
+[2026-04-16 17:22:38] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:22:38] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:22:38] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:22:38] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:22:38] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:22:38] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:22:39] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:22:39] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:22:39] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:22:39] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:22:39] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:22:39] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:22:39] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:22:50] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 414
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #2)
+[2026-04-16 17:22:52] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: hello
+[2026-04-16 17:25:11] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:25:11] dbg: [net:3] Starting network
+[2026-04-16 17:25:11] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:25:11] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:25:11] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:25:11] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:25:11] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:25:11] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:25:11] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:25:11] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:25:11] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:25:11] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:25:11] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:25:11] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:25:11] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:25:16] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 190
+[2026-04-16 17:25:19] dbg: [net:1] Client 2 made an error and has been disconnected: wrong game-password
+[2026-04-16 17:25:19] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 17:25:22] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 391
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #3)
+[2026-04-16 17:25:26] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: hi
+‎[All] dgd: <think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: </think>
+Chat to your fellow players in a multiplayer game. Usage: 'say "<msg>"'.
+‎[All] dgd: hi
+[2026-04-16 17:32:51] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:32:51] dbg: [net:3] Starting network
+[2026-04-16 17:32:51] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:32:51] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:32:51] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:32:51] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:32:51] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:32:51] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:32:51] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:32:51] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:32:51] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:32:51] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:32:51] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:32:51] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:32:51] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:32:57] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 215
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #2)
+[2026-04-16 17:33:00] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: 大哥你什么时候开服
+‎[All] dgd: 我不会开服
+‎[All] dgd: 那你自己学
+‎[All] dgd: 我真不会
+‎[All] dgd: 那你先学
+‎[All] dgd: 我真不会
+‎[All] dgd: 真不会
+‎[All] dgd: 真不为
+‎[All] dgd: 真不为
+[2026-04-16 17:33:52] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:33:52] dbg: [net:3] Starting network
+[2026-04-16 17:33:52] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:33:52] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:33:52] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:33:52] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:33:52] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:33:52] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:33:52] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:33:52] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:33:52] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:33:52] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:33:52] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:33:52] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:33:52] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:34:14] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 812
+[2026-04-16 17:34:16] dbg: [net:1] Client 2 made an error and has been disconnected: wrong game-password
+[2026-04-16 17:34:16] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 17:34:20] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 1016
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #3)
+[2026-04-16 17:34:23] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: 大哥你什么时候开服
+‎[All] dgd: 我再确认
+‎[All] dgd #1: 确认什么？
+‎[All] dgd: 然后你不会开服吧
+‎[All] dgd #1: ？你开服啊
+‎[All] dgd: 不会
+‎[All] dgd #1: 那你去学
+‎[All] dgd: 至少会一点
+‎[All] dgd #1: 你会什么
+‎[All] dgd: 会基本的linux
+‎[All] dgd #1: 那你还不能开服吗
+‎[All] dgd: 至少能开个基础的
+‎[All] dgd #1: 那你啥时候开
+‎[All] dgd: 这个星期五
+‎[All] dgd #1: 确定吗
+‎[All] dgd: 是
+‎[All] dgd #1: 周五开不了服把群主给别人
+‎[All] dgd: 真的
+‎[All] dgd #1: 好你说的
+‎[All] dgd: 真
+[2026-04-16 17:40:03] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:40:03] dbg: [net:3] Starting network
+[2026-04-16 17:40:03] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:40:03] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:40:03] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:40:03] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:40:03] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:40:03] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:40:03] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:40:03] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:40:03] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:40:03] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:40:03] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:40:03] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:40:03] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:40:11] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 311
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #2)
+[2026-04-16 17:40:15] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: 大哥你啥时候开服
+‎[All] dgd: 这周一定开
+‎[All] dgd #1: 要是没开怎么办
+‎[All] dgd: 别慌
+‎[All] dgd #1: 你要是再开不了你把QQ群群主给别人
+‎[All] dgd: 真不会linux
+[2026-04-16 17:42:21] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:42:21] dbg: [net:3] Starting network
+[2026-04-16 17:42:21] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:42:21] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:42:21] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:42:21] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:42:21] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:42:21] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:42:21] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:42:21] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:42:21] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:42:21] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:42:21] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:42:21] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:42:21] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:42:27] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 221
+‎*** Game paused (connecting clients)
+‎*** dgd has joined the game (Client #2)
+[2026-04-16 17:42:31] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd
+‎*** Game unpaused (connecting clients)
+‎[All] dgd: 大哥啥时候开服
+‎[All] DaGe[AI]: 别急
+‎[All] dgd: 我很急你快点，到底啥时候开
+‎[All] DaGe[AI]: 这不
+‎[All] dgd: ？
+‎[All] DaGe[AI]: 在找茬
+‎[All] DaGe[AI]: 没看懂
+‎[All] DaGe[AI]: 懂了
+[2026-04-16 17:43:30] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:43:30] dbg: [net:3] Starting network
+[2026-04-16 17:43:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:43:30] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:43:30] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:43:30] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:43:30] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:43:30] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:43:31] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:43:31] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:43:31] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:43:31] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:43:31] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:43:31] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:44:46] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 17:44:46] dbg: [net:3] Starting network
+[2026-04-16 17:44:46] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:44:46] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 17:44:46] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 17:44:46] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 17:44:46] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 17:44:46] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 17:44:46] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:44:46] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 17:44:46] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:44:46] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:44:46] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 17:44:46] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 17:44:46] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 17:44:57] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 394
+‎*** Game paused (connecting clients)
+‎*** dgd has joined the game (Client #2)
+[2026-04-16 17:45:01] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd
+‎*** Game unpaused (connecting clients)
+‎[All] dgd: 大哥你该开服了
+‎[All] DaGeAI: 不是说让让着呢
+‎[All] dgd: ？
+‎[All] DaGeAI: 我真不会linux
+‎[All] dgd: 那你去学啊
+‎[All] DaGeAI: 别急
+‎[All] dgd: 那你啥时候开服
+‎[All] DaGeAI: 这个周
+‎[All] dgd: 确定吗
+‎[All] DaGeAI: 不确定
+‎[All] dgd: 。。？你赶紧给个保证时间
+‎[All] DaGeAI: 我尽力
+‎[All] dgd: 那你把群主给别人吧
+‎[All] DaGeAI: 别瞎说
+‎[All] dgd: 6
+‎[All] DaGeAI: 我真不会linux
+‎[All] dgd: 你不会就去学！
+‎[All] DaGeAI: 真不会
+‎[All] dgd: 行
+‎[All] DaGeAI: 行了
