@@ -9,6 +9,7 @@ import chatbot
 LOG_FILE = "openttd_server.log"
 SAVE_DIR = os.path.expanduser("~/.local/share/openttd/save/")
 CHAT_PATTERN = re.compile(r"\[All\]\s+([^:]+):\s*(.*)$")
+IGNORE_CHAT_CLIENT = "ChatBotAI"
 
 
 def get_save_name():
@@ -40,7 +41,6 @@ def main(initial_save_path):
         ready, _, _ = select.select([proc.stdout], [], [], 1.0)
 
         if ready:
-
             line = proc.stdout.readline()
             if not line:
                 if proc.poll() is not None:
@@ -58,12 +58,13 @@ def main(initial_save_path):
 
             if match_msg and not just_saying:
                 player_name, message = match_msg.groups()
-                print(player_name + " said " + message)
-                resp = chatbot.generate(message)
-                for res_line in resp.split("\n"):
-                    proc.stdin.write(f"say \"{res_line}\"\n".encode())
-                proc.stdin.flush()
-                just_saying = True
+                if player_name != IGNORE_CHAT_CLIENT:
+                    print(player_name + " said " + message)
+                    resp = chatbot.generate(message)
+                    for res_line in resp.split("\n"):
+                        proc.stdin.write(f'say "{res_line}"\n'.encode())
+                    proc.stdin.flush()
+                    just_saying = True
             elif just_saying:
                 just_saying = False
 

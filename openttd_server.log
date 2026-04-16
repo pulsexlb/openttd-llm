@@ -601,3 +601,303 @@ use "help" for more information.
 ‎[All] DaGeAI: 真不会
 ‎[All] dgd: 行
 ‎[All] DaGeAI: 行了
+[2026-04-16 18:46:59] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 18:46:59] dbg: [net:3] Starting network
+[2026-04-16 18:46:59] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 18:46:59] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 18:46:59] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 18:46:59] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 18:46:59] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 18:46:59] dbg: [net:3] Using certificate path: none
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 18:47:00] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 18:47:00] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-04-16 18:47:00] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 18:47:00] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 18:47:01] dbg: [net:0] getaddrinfo for hostname "fixed.sav", port 3979, address family either IPv4 or IPv6 and socket type tcp failed: Name or service not known
+[2026-04-16 18:48:22] dbg: [net:3] Starting dedicated server, version 15.2
+[2026-04-16 18:48:22] dbg: [net:3] Starting network
+[2026-04-16 18:48:22] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 18:48:22] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 18:48:22] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 18:48:22] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 18:48:22] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 18:48:22] dbg: [net:3] Using certificate path: none
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 18:48:22] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.2
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 18:48:22] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 18:48:22] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 18:48:22] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 18:48:22] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 18:48:22] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 18:48:22] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 18:48:22] dbg: [net:3] Network revision name: 15.2
+[2026-04-16 18:48:24] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 18:48:28] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 187
+[2026-04-16 18:48:28] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 18:48:31] dbg: [net:1] Connection with Game Coordinator lost; reconnecting...
+[2026-04-16 18:48:31] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 18:48:33] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 18:48:34] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 18:48:39] dbg: [net:3] ----------------------------------------
+[2026-04-16 18:48:39] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-16 18:48:39] dbg: [net:3]   Game type:       Public
+[2026-04-16 18:48:39] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-16 18:48:39] dbg: [net:3]   Invite code:     +5zQZgn5
+[2026-04-16 18:48:39] dbg: [net:3] ----------------------------------------
+[2026-04-16 18:50:24] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 18:50:25] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 18:50:29] dbg: [net:0] Timeout while connecting to 62.210.113.151:51004
+[2026-04-16 18:50:32] dbg: [net:0] Timeout while connecting to [2001:bc8:32d7:302::17]:39124
+[2026-04-16 18:50:42] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 5160
+‎*** 游戏暂停（正连接客户端）
+‎*** 递归岛 加入了游戏（Client #3）
+[2026-04-16 18:50:47] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as 递归岛
+‎*** 游戏取消暂停（正连接客户端）
+‎[全体] 递归岛：大哥该开服了
+[2026-04-16 20:09:54] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-04-16 20:09:54] dbg: [net:3] Starting network
+[2026-04-16 20:09:54] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:09:54] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 20:09:54] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 20:09:54] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 20:09:54] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 20:09:54] dbg: [net:3] Using certificate path: none
+[2026-04-16 20:09:54] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:09:55] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 20:09:55] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-04-16 20:09:55] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:09:55] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:09:56] dbg: [net:0] getaddrinfo for hostname "fixed.sav", port 3979, address family either IPv4 or IPv6 and socket type tcp failed: Name or service not known
+[2026-04-16 20:10:48] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-04-16 20:10:48] dbg: [net:3] Starting network
+[2026-04-16 20:10:48] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:10:48] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 20:10:48] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 20:10:48] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 20:10:48] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 20:10:48] dbg: [net:3] Using certificate path: none
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:10:48] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 20:10:49] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:10:49] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:10:49] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:10:49] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:10:49] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:10:49] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:10:49] dbg: [net:3] Network revision name: 15.3
+[2026-04-16 20:10:50] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 20:10:52] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:10:52] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:10:55] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:10:55] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-16 20:10:55] dbg: [net:3]   Game type:       Public
+[2026-04-16 20:10:55] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-16 20:10:55] dbg: [net:3]   Invite code:     +8D8bUE6
+[2026-04-16 20:10:55] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:10:57] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 283
+[2026-04-16 20:10:57] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 20:10:59] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 346
+[2026-04-16 20:11:01] dbg: [net:3] [server] Client #3 closed connection
+[2026-04-16 20:11:27] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 1378
+‎*** 游戏暂停（正连接客户端）
+‎*** dgd 加入了游戏（Client #4）
+[2026-04-16 20:11:30] dbg: [net:3] [server] Client #4 (127.0.0.1) joined as dgd
+‎*** 游戏取消暂停（正连接客户端）
+‎[全体] dgd：大哥该开服了
+[2026-04-16 20:13:00] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-04-16 20:13:01] dbg: [net:3] Starting network
+[2026-04-16 20:13:01] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:13:01] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 20:13:01] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 20:13:01] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 20:13:01] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 20:13:01] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 20:13:01] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:13:01] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:13:01] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:13:01] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:13:01] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:13:01] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:13:01] dbg: [net:3] Network revision name: 15.3
+[2026-04-16 20:13:02] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 20:13:09] dbg: [net:1] Connection with Game Coordinator lost; reconnecting...
+[2026-04-16 20:13:11] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 20:13:15] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:13:15] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:13:39] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:13:39] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-16 20:13:39] dbg: [net:3]   Game type:       Public
+[2026-04-16 20:13:39] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-16 20:13:39] dbg: [net:3]   Invite code:     +8D8bUE6
+[2026-04-16 20:13:39] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:13:39] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:13:39] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:13:43] dbg: [net:0] Timeout while connecting to 120.245.122.97:37704
+[2026-04-16 20:13:43] dbg: [net:1] Could not connect to [2409:8a00:2524:79c0:ca46:1932:9c4e:dda1]:43188 (IPv6): Connection refused
+[2026-04-16 20:13:44] dbg: [net:3] Connected to turn-2.openttd.org:3973
+[2026-04-16 20:13:50] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:13:51] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:13:51] dbg: [net:1] Could not connect to [2409:8a00:2524:79c0:ca46:1932:9c4e:dda1]:36590 (IPv6): Connection refused
+[2026-04-16 20:13:55] dbg: [net:0] Timeout while connecting to 120.245.122.97:37887
+[2026-04-16 20:13:57] dbg: [net:3] Connected to turn-2.openttd.org:3973
+[2026-04-16 20:13:59] dbg: [net:3] [server] Client connected from 120.245.122.97 on frame 2126
+[2026-04-16 20:13:59] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 20:14:03] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 2293
+‎*** Game paused (connecting clients)
+‎*** dgd has joined the game (Client #3)
+[2026-04-16 20:14:09] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as dgd
+‎*** Game unpaused (connecting clients)
+‎[All] dgd: 大哥该开服了
+[2026-04-16 20:14:30] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-04-16 20:14:30] dbg: [net:3] Starting network
+[2026-04-16 20:14:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:14:30] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 20:14:30] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 20:14:30] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 20:14:30] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 20:14:30] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 20:14:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:14:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:14:30] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:14:30] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:14:30] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:14:30] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:14:30] dbg: [net:3] Network revision name: 15.3
+[2026-04-16 20:14:31] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 20:14:32] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:14:33] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:14:38] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:15:20] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-04-16 20:15:20] dbg: [net:3] Starting network
+[2026-04-16 20:15:20] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:15:20] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 20:15:20] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 20:15:20] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 20:15:20] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 20:15:20] dbg: [net:3] Using certificate path: none
+[2026-04-16 20:15:20] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-04-16 20:15:20] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:15:20] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:15:20] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:15:21] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-04-16 20:15:21] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:15:21] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:15:21] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-04-16 20:15:21] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 20:15:21] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:15:21] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:15:21] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:15:21] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:15:21] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:15:21] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:15:21] dbg: [net:3] Network revision name: 15.3
+[2026-04-16 20:15:24] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 20:15:25] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:15:26] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:15:30] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:15:30] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-16 20:15:30] dbg: [net:3]   Game type:       Public
+[2026-04-16 20:15:30] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-16 20:15:30] dbg: [net:3]   Invite code:     +5zQZgn5
+[2026-04-16 20:15:30] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:15:57] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 1304
+[2026-04-16 20:15:57] dbg: [net:3] [server] Client #2 closed connection
+[2026-04-16 20:16:00] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 1393
+[2026-04-16 20:16:01] dbg: [net:3] [server] Client #3 closed connection
+[2026-04-16 20:16:19] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 2118
+‎*** 游戏暂停（正连接客户端）
+‎*** dgd #1 加入了游戏（Client #4）
+[2026-04-16 20:16:23] dbg: [net:3] [server] Client #4 (127.0.0.1) joined as dgd #1
+‎*** 游戏取消暂停（正连接客户端）
+[2026-04-16 20:16:30] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-04-16 20:16:30] dbg: [net:3] Starting network
+[2026-04-16 20:16:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:16:30] dbg: [net:3] Network online, multiplayer available
+[2026-04-16 20:16:30] dbg: [net:3] Detected broadcast addresses:
+[2026-04-16 20:16:30] dbg: [net:3]   0) 192.168.1.255
+[2026-04-16 20:16:30] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-04-16 20:16:30] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-04-16 20:16:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:16:30] dbg: [net:3] Initializing UDP listeners
+[2026-04-16 20:16:30] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:16:30] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:16:30] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-04-16 20:16:30] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-04-16 20:16:30] dbg: [net:3] Network revision name: 15.3
+[2026-04-16 20:16:31] dbg: [net:3] Connected to coordinator.openttd.org:3976
+[2026-04-16 20:16:33] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:16:33] dbg: [net:3] Connected to stun.openttd.org:3975
+[2026-04-16 20:16:37] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:16:37] dbg: [net:3] Your server is now registered with the Game Coordinator:
+[2026-04-16 20:16:37] dbg: [net:3]   Game type:       Public
+[2026-04-16 20:16:37] dbg: [net:3]   Connection type: Behind NAT
+[2026-04-16 20:16:37] dbg: [net:3]   Invite code:     +5zQZgn5
+[2026-04-16 20:16:37] dbg: [net:3] ----------------------------------------
+[2026-04-16 20:17:08] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 1414
+‎*** Game paused (connecting clients)
+‎*** dgd #1 has joined the game (Client #2)
+[2026-04-16 20:17:12] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as dgd #1
+‎*** Game unpaused (connecting clients)
+‎[All] dgd #1: 大哥什么时候开服
+‎[All] dgd: 快了

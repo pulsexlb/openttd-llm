@@ -15,3 +15,5 @@
 为了运行程序，你需要安装`ollama`第三方库，可以使用`pip`安装
 
 你需要准备一个存档，然后运行`python main.py test.sav`，会自动加载sav存档并运行。
+
+为了避免ai自己回答自己的话，你可以设置main.py中设置忽略你的chatbot的名称
