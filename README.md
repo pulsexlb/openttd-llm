@@ -1,19 +1,51 @@
-# 准备工作
-## 准备ollama
-请为你的设备安装ollama。
+[English](README.md) | [简体中文](README_zh.md)
 
-## 准备模型
-### 使用ollama模型
-你可以使用ollama中的模型，修改`chatbot.py`中的model变量，替换为你想要使用的模型。
+# OpenTTD LLM Chatbot
 
-### 使用自定义模型
-你可以使用你自己微调或训练的模型，将.gguf文件和Modelfile链接或复制到`ai`文件夹下，运行setup.sh会自动安装
+A Python script that runs an OpenTTD server and connects it to an LLM (via Ollama) for AI-powered chat responses.
 
-你也可以使用ollama命令自行安装
+## Quick Start
 
-## 运行程序
-为了运行程序，你需要安装`ollama`第三方库，可以使用`pip`安装
+1. **Install dependencies:**
+   ```bash
+   pip install ollama
+   ```
 
-你需要准备一个存档，然后运行`python main.py test.sav`，会自动加载sav存档并运行。
+2. **Configure `config.toml`** (see Configuration section below)
 
-为了避免ai自己回答自己的话，你可以设置main.py中设置忽略你的chatbot的名称
+3. **Run the server:**
+   ```bash
+   # With a save file
+   python main.py <save_file_path>
+
+   # With default save (no save file)
+   python main.py
+   ```
+
+4. **Send commands:** Type commands directly in the terminal to send to OpenTTD console.
+
+## Configuration
+
+Edit `config.toml`:
+
+```toml
+[server]
+log_file = "openttd_server.log"  # Path to log file (required)
+
+[ai]
+enable = true                 # Enable AI chat (required)
+ignore_client = "ChatBotAI"   # Client name to ignore (optional, default: "")
+model = "OTTD-Chatbot"        # Ollama model name (required when enable=true)
+system_prompt = ""            # System prompt for the AI (optional, default: "")
+```
+
+### Options
+
+| Section | Key | Required | Default | Description |
+|---------|-----|----------|---------|-------------|
+| server | log_file | Yes | - | Path to the log file |
+| ai | enable | Yes | false | Enable AI chat functionality |
+| ai | ignore_client | No | "" | Client name to ignore in chat |
+| ai | model | Yes* | - | Ollama model name (*required when enable_ai=true) |
+| ai | system_prompt | No | "" | System prompt for the AI |
+
