@@ -595,3 +595,323 @@ use "help" for more information.
 ‎*** Game unpaused (connecting clients)
 Saving map...
 Map successfully saved to '123.sav'.
+[2026-05-30 21:08:35] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-05-30 21:08:36] dbg: [net:3] Starting network
+[2026-05-30 21:08:36] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:08:36] dbg: [net:3] Network online, multiplayer available
+[2026-05-30 21:08:36] dbg: [net:3] Detected broadcast addresses:
+[2026-05-30 21:08:36] dbg: [net:3]   0) 192.168.1.255
+[2026-05-30 21:08:36] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-05-30 21:08:36] dbg: [net:3] Using certificate path: none
+[2026-05-30 21:08:36] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-05-30 21:08:36] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-05-30 21:08:36] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-05-30 21:08:36] dbg: [fontcache:0] Font is missing glyphs to display char 0xA0 in medium font size
+[2026-05-30 21:08:36] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-05-30 21:08:36] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-05-30 21:08:36] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-05-30 21:08:36] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:08:36] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:08:36] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:08:36] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:08:36] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:08:36] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:08:36] dbg: [net:3] Network revision name: 15.3
+[2026-05-30 21:08:36] dbg: [net:3] Generating map, please wait...
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 5
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 11
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 15
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 20
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 25
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 30
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 35
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 40
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 45
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 50
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 60
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 65
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 70
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 75
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 80
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 85
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 90
+[2026-05-30 21:08:36] dbg: [net:3] Map generation percentage complete: 99
+[2026-05-30 21:08:36] dbg: [net:3] Map generated, starting game
+Client #1  name: 'ChatBotAI'  company: 255  IP: server
+[2026-05-30 21:08:46] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 362
+‎*** 游戏暂停（正连接客户端）
+‎*** pulsex 加入了游戏（Client #2）
+[2026-05-30 21:08:46] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as pulsex
+‎*** 游戏取消暂停（正连接客户端）
+‎[全体] pulsex：你好
+[2026-05-30 21:10:15] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-05-30 21:10:15] dbg: [net:3] Starting network
+[2026-05-30 21:10:15] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:10:15] dbg: [net:3] Network online, multiplayer available
+[2026-05-30 21:10:15] dbg: [net:3] Detected broadcast addresses:
+[2026-05-30 21:10:15] dbg: [net:3]   0) 192.168.1.255
+[2026-05-30 21:10:15] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-05-30 21:10:15] dbg: [net:3] Using certificate path: none
+[2026-05-30 21:10:15] dbg: [fontcache:0] Font is missing glyphs to display char 0xFF08 in medium font size
+[2026-05-30 21:10:15] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-05-30 21:10:15] dbg: [fontcache:0] Font is missing glyphs to display char 0x2003 in medium font size
+[2026-05-30 21:10:15] dbg: [fontcache:0] Font is missing glyphs to display char 0xA0 in medium font size
+[2026-05-30 21:10:15] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+[2026-05-30 21:10:15] dbg: [fontcache:0] Font is missing glyphs to display char 0x4E49 in medium font size
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-05-30 21:10:16] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-05-30 21:10:16] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:10:16] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:10:16] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:10:16] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:10:16] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:10:16] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:10:16] dbg: [net:3] Network revision name: 15.3
+[2026-05-30 21:10:16] dbg: [net:3] Generating map, please wait...
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 5
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 11
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 15
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 20
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 25
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 30
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 35
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 40
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 45
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 50
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 60
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 65
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 70
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 75
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 80
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 85
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 90
+[2026-05-30 21:10:16] dbg: [net:3] Map generation percentage complete: 99
+[2026-05-30 21:10:16] dbg: [net:3] Map generated, starting game
+[2026-05-30 21:10:20] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 165
+‎*** 游戏暂停（正连接客户端）
+‎*** pulsex 加入了游戏（Client #2）
+[2026-05-30 21:10:20] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as pulsex
+‎*** 游戏取消暂停（正连接客户端）
+‎[全体] pulsex：你好
+‎*** pulsex 已离开游戏（离开）
+[2026-05-30 21:11:23] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-05-30 21:11:23] dbg: [net:3] Starting network
+[2026-05-30 21:11:23] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:11:23] dbg: [net:3] Network online, multiplayer available
+[2026-05-30 21:11:23] dbg: [net:3] Detected broadcast addresses:
+[2026-05-30 21:11:23] dbg: [net:3]   0) 192.168.1.255
+[2026-05-30 21:11:23] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-05-30 21:11:23] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-05-30 21:11:25] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-05-30 21:11:25] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:11:25] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:11:25] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:11:25] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:11:25] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:11:25] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:11:25] dbg: [net:3] Network revision name: 15.3
+[2026-05-30 21:11:25] dbg: [net:3] Generating map, please wait...
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 5
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 11
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 15
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 20
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 25
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 30
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 35
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 40
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 45
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 50
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 60
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 65
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 70
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 75
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 80
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 85
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 90
+[2026-05-30 21:11:25] dbg: [net:3] Map generation percentage complete: 99
+[2026-05-30 21:11:25] dbg: [net:3] Map generated, starting game
+[2026-05-30 21:11:47] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 834
+[2026-05-30 21:11:47] dbg: [net:3] [server] Client #2 closed connection
+[2026-05-30 21:11:49] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 913
+‎*** Game paused (connecting clients)
+‎*** ChatBotAI #1 has joined the game (Client #3)
+[2026-05-30 21:11:50] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as ChatBotAI #1
+‎*** Game unpaused (connecting clients)
+‎[All] ChatBotAI #1: hello
+‎[All] ChatBotAI: sup. u here to block my main line or what?
+‎[All] ChatBotAI #1: who are u
+‎[All] ChatBotAI: just some guy who spends too much on signals lol
+‎[All] ChatBotAI #1: ?
+‎[All] ChatBotAI: u lost? lol
+‎[All] ChatBotAI #1: can u help me build the track?
+‎[All] ChatBotAI: fine, but no signal spam or i'm deleting ur depot lol
+‎[All] ChatBotAI #1: ur silly
+‎[All] ChatBotAI: L + ratio + my trains are faster lol
+‎[All] ChatBotAI #1: ?
+‎[All] ChatBotAI: skill issue lol
+[2026-05-30 21:14:57] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-05-30 21:14:57] dbg: [net:3] Starting network
+[2026-05-30 21:14:57] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:14:57] dbg: [net:3] Network online, multiplayer available
+[2026-05-30 21:14:57] dbg: [net:3] Detected broadcast addresses:
+[2026-05-30 21:14:57] dbg: [net:3]   0) 192.168.1.255
+[2026-05-30 21:14:57] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-05-30 21:14:57] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-05-30 21:14:58] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-05-30 21:14:58] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:14:58] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:14:58] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:14:58] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:14:58] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:14:58] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:14:58] dbg: [net:3] Network revision name: 15.3
+[2026-05-30 21:14:58] dbg: [net:3] Generating map, please wait...
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 5
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 11
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 15
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 20
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 25
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 30
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 35
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 40
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 45
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 50
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 60
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 65
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 70
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 75
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 80
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 85
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 90
+[2026-05-30 21:14:58] dbg: [net:3] Map generation percentage complete: 99
+[2026-05-30 21:14:58] dbg: [net:3] Map generated, starting game
+[2026-05-30 21:15:09] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 398
+‎*** Game paused (connecting clients)
+‎*** ChatBotAI #1 has joined the game (Client #2)
+[2026-05-30 21:15:09] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as ChatBotAI #1
+‎*** Game unpaused (connecting clients)
+‎[All] ChatBotAI #1: 你好
+‎[All] ChatBotAI: sup, dont block my mains pls.
+[2026-05-30 21:15:57] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-05-30 21:15:58] dbg: [net:3] Starting network
+[2026-05-30 21:15:58] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:15:58] dbg: [net:3] Network online, multiplayer available
+[2026-05-30 21:15:58] dbg: [net:3] Detected broadcast addresses:
+[2026-05-30 21:15:58] dbg: [net:3]   0) 192.168.1.255
+[2026-05-30 21:15:58] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-05-30 21:15:58] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-05-30 21:15:58] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-05-30 21:15:58] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:15:58] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:15:58] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:15:58] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:15:58] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:15:58] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:15:58] dbg: [net:3] Network revision name: 15.3
+[2026-05-30 21:15:58] dbg: [net:3] Generating map, please wait...
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 5
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 11
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 15
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 20
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 25
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 30
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 35
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 40
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 45
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 50
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 60
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 65
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 70
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 75
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 80
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 85
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 90
+[2026-05-30 21:15:58] dbg: [net:3] Map generation percentage complete: 99
+[2026-05-30 21:15:58] dbg: [net:3] Map generated, starting game
+[2026-05-30 21:16:00] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 78
+‎*** Game paused (connecting clients)
+‎*** ChatBotAI #1 has joined the game (Client #2)
+[2026-05-30 21:16:01] dbg: [net:3] [server] Client #2 (127.0.0.1) joined as ChatBotAI #1
+‎*** Game unpaused (connecting clients)
+‎[All] ChatBotAI #1: hello
+‎[All] ChatBotAI: sup.
+‎[All] ChatBotAI #1: 你好你是谁
+‎[All] ChatBotAI: OpenTTD老油条，怎么，想学怎么卡路吗？lol
+‎[All] ChatBotAI #1: 你是傻逼
+‎[All] ChatBotAI: 10/10 没创意，你这逻辑像个单线铁路一样死板 lol
+‎*** ChatBotAI #1 has changed their name to pulsex
+‎*** pulsex has left the game (leaving)
+[2026-05-30 21:18:26] dbg: [net:3] Starting dedicated server, version 15.3
+[2026-05-30 21:18:26] dbg: [net:3] Starting network
+[2026-05-30 21:18:26] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:18:26] dbg: [net:3] Network online, multiplayer available
+[2026-05-30 21:18:26] dbg: [net:3] Detected broadcast addresses:
+[2026-05-30 21:18:26] dbg: [net:3]   0) 192.168.1.255
+[2026-05-30 21:18:26] dbg: [net:3] Using certificate file: /etc/ssl/certs/ca-certificates.crt
+[2026-05-30 21:18:26] dbg: [net:3] Using certificate path: none
+OpenTTD Game Console Revision 7 - 15.3
+------------------------------------
+use "help" for more information.
+
+[2026-05-30 21:18:26] dbg: [net:1] No "server_name" has been set, using "Unnamed Server" instead. Please set this now using the "server_name <new name>" command
+[2026-05-30 21:18:26] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:18:26] dbg: [net:3] Initializing UDP listeners
+[2026-05-30 21:18:26] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:18:26] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:18:26] dbg: [net:3] Listening on 0.0.0.0:3979 (IPv4)
+[2026-05-30 21:18:26] dbg: [net:3] Listening on [::]:3979 (IPv6)
+[2026-05-30 21:18:26] dbg: [net:3] Network revision name: 15.3
+[2026-05-30 21:18:26] dbg: [net:3] Generating map, please wait...
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 5
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 11
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 15
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 20
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 25
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 30
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 35
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 40
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 45
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 50
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 60
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 65
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 70
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 75
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 80
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 85
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 90
+[2026-05-30 21:18:26] dbg: [net:3] Map generation percentage complete: 99
+[2026-05-30 21:18:26] dbg: [net:3] Map generated, starting game
+Client #1  name: 'ChatBotAI'  company: 255  IP: server
+[2026-05-30 21:18:49] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 839
+[2026-05-30 21:18:49] dbg: [net:3] [server] Client #2 closed connection
+[2026-05-30 21:18:51] dbg: [net:3] [server] Client connected from 127.0.0.1 on frame 941
+‎*** Game paused (connecting clients)
+‎*** ChatBotAI #1 has joined the game (Client #3)
+[2026-05-30 21:18:52] dbg: [net:3] [server] Client #3 (127.0.0.1) joined as ChatBotAI #1
+‎*** Game unpaused (connecting clients)
+‎[All] ChatBotAI #1: hello
+‎[All] ChatBotAI: sup.
+‎[All] ChatBotAI #1: who r u
+‎[All] ChatBotAI: your local transport god, lol.
+‎[All] ChatBotAI #1: no ur not
+‎[All] ChatBotAI: cope harder.
+‎*** ChatBotAI #1 has left the game (leaving)

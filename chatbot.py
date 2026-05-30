@@ -1,4 +1,3 @@
-import re
 import ollama
 import tomllib
 
@@ -23,22 +22,21 @@ messages = [
 
 
 def generate(msg):
+    print("chating")
     if not enabled:
         return ""
     global messages
     messages.append({"role": "user", "content": msg})
-    response = ollama.chat(model=model, messages=messages)
-    res_text = re.sub(
-        r"<think>.*?</think>", "", response["message"]["content"], flags=re.DOTALL
-    ).strip()
-    messages.append({"role": "assistant", "content": res_text})
+    response = ollama.chat(model=model, messages=messages, think=False)
+    text = response["message"]["content"]
+    messages.append({"role": "assistant", "content": text})
     if messages[0]["role"] == "system":
         if len(messages) > 61:
             messages = [messages[0]] + messages[-6:]
     else:
         if len(messages) > 60:
             messages = messages[-6:]
-    return res_text
+    return text
 
 
 if __name__ == "__main__":
